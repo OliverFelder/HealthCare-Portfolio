@@ -1,7 +1,10 @@
 # Healthcare Sterilization Analytics Portfolio
 
-![Dashboard Vorschau](dashboard_preview.png)
-![Dashboard Vorschau] (dashboard_preview2.png)
+![Dashboard Vorschau 1](dashboard_preview.png)
+
+
+![Dashboard Vorschau 2](dashboard_preview2.png)
+
 # Fokus der Analyse 
 - Prozess-Transparenz:
 Verknüpfung von operativen Sterilisationsdaten aus der Datenbank mit einer visuellen Auswertung in Power BI.       - Engpass-Analyse: Identifikation von Zeitfenstern mit besonders hohem Aufkommen an Sterilisationsgut zur besseren Personalplanung.
