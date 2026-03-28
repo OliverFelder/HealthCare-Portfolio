@@ -1,0 +1,10 @@
+cycle_id,machine_id,status,instruments,total_cycle_min,released
+1,M1,success,Sieb A,65,True
+1,M1,success,Pinzette,65,True
+1,M1,success,Schere,65,True
+2,M1,success,Sieb B,65,True
+2,M1,success,Klemme,65,True
+3,M2,fail,Sieb C,130,False
+3,M2,fail,Skalpell,130,False
+4,M2,success,Sieb D,65,True
+4,M2,success,Nadelhalter,65,True

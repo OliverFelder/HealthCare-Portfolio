@@ -1,0 +1,17 @@
+# --- Python & System ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.vscode/
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+*.log
+.env
+
+# --- Portfolio-Regel ---
+# WICHTIG:
+# healthcare.db und CSV-Dateien bleiben im Repo,
+# damit das Projekt ohne Setup sofort reproduzierbar ist.
