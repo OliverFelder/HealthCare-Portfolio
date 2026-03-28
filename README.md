@@ -1,5 +1,8 @@
 # Healthcare Sterilization Analytics Portfolio
 
+![Dashboard Vorschau]
+(dashboard_preview.png)
+
 Dieses Projekt bildet einen realistischen Sterilisationsprozess aus der AEMP (Aufbereitungseinheit für Medizinprodukte) datengetrieben ab und analysiert ihn operativ.
 
 Ziel ist es, fachliche Prozessrealität mit Data Analytics (Python, SQL, Power BI) zu verbinden und Traceability nachvollziehbar darzustellen.
