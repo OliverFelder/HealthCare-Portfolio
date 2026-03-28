@@ -1,7 +1,12 @@
 # Healthcare Sterilization Analytics Portfolio
 
-![Dashboard Vorschau]
-(dashboard_preview.png)
+![Dashboard Vorschau](dashboard_preview.png)
+# Fokus der Analyse 
+- Prozess-Transparenz:
+Verknüpfung von operativen Sterilisationsdaten aus der Datenbank mit einer visuellen Auswertung in Power BI.       - Engpass-Analyse: Identifikation von Zeitfenstern mit besonders hohem Aufkommen an Sterilisationsgut zur besseren Personalplanung.
+- Datenqualität: Validierung der simulierten Prozessdaten mittels SQL-Abfragen, um eine lückenlose Dokumentation der Chargen sicherzustellen. 
+
+---
 
 Dieses Projekt bildet einen realistischen Sterilisationsprozess aus der AEMP (Aufbereitungseinheit für Medizinprodukte) datengetrieben ab und analysiert ihn operativ.
 
