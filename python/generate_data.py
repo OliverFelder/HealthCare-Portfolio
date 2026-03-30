@@ -1,5 +1,5 @@
 # ============================================================
-# 🏥 Healthcare Portfolio – Sterilization Traceability Pipeline
+# Healthcare Portfolio – Sterilization Traceability Pipeline
 # ============================================================
 #
 # Dieses Skript simuliert einen realistischen Sterilisationsprozess
@@ -134,7 +134,7 @@ df["released"] = df["status"] == "success"
 csv_path = os.path.join(data_dir, "healthcare.csv")
 df.to_csv(csv_path, index=False, encoding="utf-8")
 
-print("✅ CSV gespeichert unter:", csv_path)
+print("CSV gespeichert unter:", csv_path)
 
 
 # ============================================================
@@ -147,4 +147,4 @@ conn = sqlite3.connect(db_path)
 df.to_sql("sterilization_cycles", conn, if_exists="replace", index=False)
 conn.close()
 
-print("✅ SQLite DB erstellt unter:", db_path)
+print("SQLite DB erstellt unter:", db_path)
