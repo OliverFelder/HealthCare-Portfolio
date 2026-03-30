@@ -28,9 +28,9 @@
 # =========================
 # Benötigte Bibliotheken
 # =========================
-# pandas  → Verarbeitung tabellarischer Daten
-# sqlite3 → Erstellung einer SQL-Datenbank ohne Installation
-# os      → Sichere Pfad- und Ordnerverwaltung
+# pandas  -> Verarbeitung tabellarischer Daten
+# sqlite3 -> Erstellung einer SQL-Datenbank ohne Installation
+# os      -> Sichere Pfad- und Ordnerverwaltung
 
 import pandas as pd
 import sqlite3
