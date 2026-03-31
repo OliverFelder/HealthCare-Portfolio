@@ -43,7 +43,7 @@ Nur wenn alle Anforderungen erfüllt sind, darf ein Medizinprodukt freigegeben u
 Was nicht im System dokumentiert ist, gilt rechtlich und medizinisch als nicht aufbereitet.
 
 Der Prozess ist dabei vollständig standardisiert und reproduzierbar:
-Unabhängig davon, ob Mitarbeiter 1, Mitarbeiter 2 oder Mitarbeiter 3 die Charge bearbeitet — bei korrekt eingehaltenem Prozess entsteht am Ende immer das gleiche, validierte Ergebnis.
+Unabhängig davon, ob Mitarbeiter 1, Mitarbeiter 2 oder Mitarbeiter 3 die Charge bearbeitet, bei korrekt eingehaltenem Prozess entsteht am Ende immer das gleiche, validierte Ergebnis.
 
 Dieses Projekt bildet genau diese Traceability und Prozesslogik datengetrieben ab.
 
