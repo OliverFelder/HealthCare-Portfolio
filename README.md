@@ -7,7 +7,7 @@
 
 # Fokus der Analyse 
 - Prozess-Transparenz:
-Verknüpfung von operativen Sterilisationsdaten aus der Datenbank mit einer visuellen Auswertung in Power BI.       - Engpass-Analyse: Identifikation von Zeitfenstern mit besonders hohem Aufkommen an Sterilisationsgut zur besseren Personalplanung.
+Verknüpfung von operativen Sterilisationsdaten aus der Datenbank mit einer visuellen Auswertung in Power BI.        Engpass-Analyse: Identifikation von Zeitfenstern mit besonders hohem Aufkommen an Sterilisationsgut zur besseren Personalplanung.
 - Datenqualität: Validierung der simulierten Prozessdaten mittels SQL-Abfragen, um eine lückenlose Dokumentation der Chargen sicherzustellen. 
 
 ---
